@@ -6,3 +6,4 @@ num_3 = 12
 quotient = num_3 / num_8
 favorite_films = ["Maze Runner", "Jumanji", "Flubber"]
 favorite_films.delete_at(0)
+puts animal.length
